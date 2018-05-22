@@ -23,11 +23,4 @@ $(document).ready(function(){
 		});
 	});
 
-	/*
-		P.D. Sorry for my english :v
-	|------------------------------------|	
-	|	Noe N. Mercado M. --- GUI-BOX.tk |
-	|------------------------------------|
-	*/
-
 });
